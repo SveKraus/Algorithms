@@ -1,0 +1,15 @@
+1.Применение хеш-функций :
+Проверка целостности сообщений и файлов. Сравнивая хэш.значения сообщений, вычисленные до и после передачи, можно определить
+были ли какие то изменения в сообщении или в файле
+Еще один пример - Цифровая подпись. Здесь подпись ставится не на сам документ, а на его хеш. Вычесление хэша позволяет
+выявить малейшие изменения в документе при проверке подписи
+2.
+---- BEGIN SSH2 PUBLIC KEY ----
+Comment: "rsa-key-20230730"
+AAAAB3NzaC1yc2EAAAABJQAAAQEA9qWKNgwuM8FrCCk6toN3hxJnujBUjNkYFS77
+JQldWnu+URSykxj1n58Xe4s/kpUcH7IJbSOXiKZDYRZ1bllAFDthJj4Z+zMCAzCK
+6H+AsSQxD4+9+HUCcWWHTLR7f7Jun9MSHhw5Mvl70lUGYrD71uVSmemrtAt9KI+r
+rp0dAJvb0w7H45IGIL2AmFIaQLLB6Eh3CVybLxd7ebWSM9hj/gLNVAmYfvy24ldQ
+IWZ5InDhTqvuLRkrje/ZF0I/AD/0wB/7vyAhIPPKsD6fPFafMY3ATc8HYmFhoc20
+gK514Xa1qf46lppO/KUxHj9ESMcgQ8o1oD+8H0cgNi0wZ4TVVQ==
+---- END SSH2 PUBLIC KEY ----
